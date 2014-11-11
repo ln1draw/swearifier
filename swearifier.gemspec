@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Ellen Wondra-Lindley']
   s.email       = 'shanghaiellen@gmail.com'
   s.files       = ['lib/swearifier.rb']
-  s.executables = []
+  s.executables = ['fuuuu']
   s.homepage    = 'https://github.com/shanghaiellen/swearifier'
   s.license     = 'MIT'
 end
