@@ -9,4 +9,4 @@ fuuuu
 
 ##to develop
 gem build swearifier.gemspec
-gem install ./swearifier-0.0.1.gem
+gem install ./swearifier-0.0.2.gem

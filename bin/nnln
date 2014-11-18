@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'swearifier'
+sweary = Swearifier::Swearify.new
+sweary.nnln
